@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33801.468
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkClient", "NetworkClient\NetworkClient.csproj", "{041AA1EE-1382-47A1-9D3A-3A2273AE72DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkClientSpellman", "NetworkClient\NetworkClientSpellman.csproj", "{041AA1EE-1382-47A1-9D3A-3A2273AE72DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
